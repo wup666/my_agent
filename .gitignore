@@ -1,0 +1,12 @@
+# 环境变量文件（含真实密钥）
+.env
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+# IDE 配置
+.vscode/
+.idea/
+# 测试文件（可选）
+*.pdf
+*.txt
